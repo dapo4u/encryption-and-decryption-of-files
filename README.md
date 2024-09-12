@@ -3,10 +3,6 @@
 
 - 👨‍🏫 I enjoy teaching  as well as helping students to excel in their examination
 - ### 💻 Useful Links
-- https://cyber-dapo.hashnode.dev/password-protected-pdf-files
-- https://cyber-dapo.hashnode.dev/encryption-and-decryption-of-filespart-2
-- 📚 [youtube ](https://www.youtube.com/watch?v=iTa1M6lVjnY)
-
 
 # Encryption-and-Decryption-of-Files-#
 
